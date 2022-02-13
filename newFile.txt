@@ -1,4 +1,3 @@
 test
 
-addition 2
 addition 3
